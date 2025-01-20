@@ -45,8 +45,7 @@ Other files such as Suicide watch dataset were > 100mb, and hence I am not able 
 
 Ensure you have the following installed:
 1) Python 3.8+
-2) Jupyter Notebook or Google Colab
-3) Required Python libraries (install via requirements.txt if available)
+2) Required Python libraries (install via requirements.txt if available)
 
 **Steps to Run**
 1) Clone this repository to your local machine:
@@ -56,7 +55,7 @@ cd Moodmate_mENTAL_wELLBEING_cHATBOT
 ```
 2) Extract the dataset (GoEmotionsdataset.zip) to the same directory.
 
-3) Open the notebooks:
+3) Open the following notebooks on Kaggle ( or on Colab/ Jupyter NB, but make sure to download the datasets/models from Kaggle):
    a)Use mental-wellbeing-chatbot_model_train_final.ipynb to train the models.
    b)Use integration-of-model-mental-wellbeing-chatbot_final.ipynb to test and run the chatbot.
    
