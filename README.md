@@ -58,13 +58,12 @@ cd Moodmate_mENTAL_wELLBEING_cHATBOT
 3) Open the following notebooks on Kaggle ( or on Colab/ Jupyter NB, but make sure to download the datasets/models from Kaggle):
    
    a)Use mental-wellbeing-chatbot_model_train_final.ipynb to train the models.
-   
    b)Use integration-of-model-mental-wellbeing-chatbot_final.ipynb to test and run the chatbot.
    
 5) Install dependencies if required:
 ```bash
 pip install -r requirements.txt
 ```
-5)Follow the instructions in the notebooks to execute the code.
+5) Follow the instructions in the notebooks to execute the code.
 
 
