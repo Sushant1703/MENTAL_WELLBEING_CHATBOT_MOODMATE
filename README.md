@@ -1,4 +1,4 @@
-# MENTAL_WELLBEING_CHATBOT_MOODMATE
+# MOODMATE (The mental wellbeing chatbot)
 Moodmate is an innovative application designed to assist users in managing their mental wellbeing by leveraging machine learning models. It integrates two robust models—an Emotion Classifier and a Suicide Detection Classifier—to provide empathetic support and meaningful interactions. The project includes Kaggle-based code and detailed reports to showcase its design and implementation.
 
 **Repository Structure**
@@ -58,6 +58,7 @@ cd Moodmate_mENTAL_wELLBEING_cHATBOT
 3) Open the following notebooks on Kaggle ( or on Colab/ Jupyter NB, but make sure to download the datasets/models from Kaggle):
    
    a)Use mental-wellbeing-chatbot_model_train_final.ipynb to train the models.
+   
    b)Use integration-of-model-mental-wellbeing-chatbot_final.ipynb to test and run the chatbot.
    
 5) Install dependencies if required:
